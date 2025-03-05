@@ -6,7 +6,7 @@ import ContactButton from './components/ContactButton';
 function App() {
   const services = [
     {
-      title: "Tratamento de Feridas Nathalia Silabe",
+      title: "Tratamento de Feridas Nathalia Silabe jUNIOR",
       description: "Cuidado especializado e personalizado para diversos tipos de feridas, utilizando técnicas avançadas e materiais de última geração.",
       icon: "bandage"
     },
