@@ -11,7 +11,7 @@ function App() {
       icon: "bandage"
     },
     {
-      title: "Estomias",
+      title: "Estomias NOVAS",
       description: "Acompanhamento profissional para pacientes estomizados, garantindo qualidade de vida e adaptação adequada.",
       icon: "care"
     },
